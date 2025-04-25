@@ -1,4 +1,4 @@
-# AI-Game-Agent-With-Deep-Q-Learning-Using-reinforcement-Learning
+# AI-Game-Agent-With-Deep-Q-Learning-Using-reinforcement-Learning(Inspired and took Reference from Patrick Loeber’s tutorial)
 A reinforcement learning-based project that trains an AI agent to master the classic Snake game using Deep Q-Learning with PyTorch.
 
 🧠 Overview
